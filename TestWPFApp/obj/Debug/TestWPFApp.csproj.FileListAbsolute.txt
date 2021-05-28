@@ -1,0 +1,15 @@
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\bin\Debug\TestWPFApp.exe.config
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\bin\Debug\TestWPFApp.exe
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\bin\Debug\TestWPFApp.pdb
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\obj\Debug\TestWPFApp.csprojAssemblyReference.cache
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\obj\Debug\App.g.cs
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\obj\Debug\TestWPFApp_MarkupCompile.cache
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\obj\Debug\TestWPFApp_MarkupCompile.lref
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\obj\Debug\MainWindow.baml
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\obj\Debug\TestWPFApp.g.resources
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\obj\Debug\TestWPFApp.Properties.Resources.resources
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\obj\Debug\TestWPFApp.csproj.GenerateResource.cache
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\obj\Debug\TestWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\obj\Debug\TestWPFApp.exe
+C:\Users\isa4e\source\repos\TestWPFApp\TestWPFApp\obj\Debug\TestWPFApp.pdb
